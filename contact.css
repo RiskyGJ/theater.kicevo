@@ -1,0 +1,14 @@
+form{
+	color:black;
+
+}
+
+label{
+	font-size:14px ;
+}
+
+fieldset{
+	display:flex;
+	flex-direction: column;
+	
+}
